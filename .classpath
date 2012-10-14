@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="tests"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/runner/thirdparty/lib/jemmy.jar" sourcepath="/runner/thirdparty/lib/jemmy.zip"/>
+	<classpathentry kind="lib" path="/runner/lib/jsystemApp.jar"/>
+	<classpathentry kind="lib" path="/runner/lib/jsystemCommon.jar"/>
+	<classpathentry kind="lib" path="/runner/lib/jsystemCore.jar" sourcepath="/runner/lib/jsystemCore_src.zip"/>
+	<classpathentry kind="lib" path="/runner/thirdparty/lib/xmlrpc-2.0.jar"/>
+	<classpathentry kind="lib" path="/runner/lib/cli.jar" sourcepath="/runner/lib/cli_src.zip"/>
+	<classpathentry kind="lib" path="C:/jsystem/runner/lib/swing.jar" sourcepath="C:/jsystem/runner/lib/swing_src.zip"/>
+	<classpathentry kind="lib" path="lib/newJregression.jar"/>
+	<classpathentry kind="lib" path="C:/jsystem/runner/thirdparty/commonlib/commons-io.jar"/>
+	<classpathentry kind="lib" path="C:/jsystem/runner/thirdparty/commonlib/junit.jar"/>
+	<classpathentry kind="lib" path="C:/jsystem/runner/thirdparty/commonlib/qdox.jar"/>
+	<classpathentry kind="lib" path="C:/jsystem/runner/thirdparty/commonlib/spring.jar"/>
+	<classpathentry kind="lib" path="C:/jsystem/runner/thirdparty/commonlib/xalan.jar"/>
+	<classpathentry kind="lib" path="/runner/thirdparty/commonlib/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="/runner/thirdparty/commonlib/commons-codec-1.3.jar"/>
+	<classpathentry kind="lib" path="/runner/lib/jsystem-launcher.jar"/>
+	<classpathentry kind="output" path="classes"/>
+</classpath>
